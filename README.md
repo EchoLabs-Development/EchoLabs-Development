@@ -44,14 +44,14 @@ Lua 😇 | JavaScript ⚡ | Node.js 🌎 | Shell Scripting 🖥️ | PowerShell 
 ## 📥 How to Get Our Scripts
 
 ### 🛒 Purchase Custom Scripts
-1. Visit our **[Website](https://your-website.com)** or contact us on **[Discord](https://discord.gg/your-invite)**.
+1. Visit our **[Website Soon](https://your-website.com)** or contact us on **[Discord](https://discord.gg/aCPhDdV92U)**.
 2. Submit your requirements.
 3. Get a quote and receive your fully customized script.
 
 ### 🚀 Download Ready-to-Use Scripts
-- Check out our **[Marketplace](https://your-marketplace.com)** for instant downloads.
+- Check out our **[Marketplace Soon](https://your-marketplace.com)** for instant downloads.
 
 ### 🆓 Get Free Scripts on GitHub
-- Explore our **[GitHub Repository](https://github.com/your-username/Echo-Labs)** for open-source scripts.
+- Explore our **[GitHub Repository](https://github.com/EchoLabs-Development?tab=repositories)** for open-source scripts.
 - Fork, contribute, and enhance 
 
